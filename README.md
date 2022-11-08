@@ -14,6 +14,10 @@ https://youtu.be/zciJwwiO4u0
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## Important
+Make sure to command 'npm install' in both the server and client folders to download the node_modules before running.
+
 ## Available Scripts
 
 In the project directory, you can run:
